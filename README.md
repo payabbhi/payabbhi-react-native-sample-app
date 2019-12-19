@@ -18,11 +18,11 @@ Make sure you have signed up for your [Payabbhi Account](https://payabbhi.com/do
   * `<access_id>`
   * `<amount>`
 
-3. Add logic to get `order_id` from your Mobile Backend (server-side code) in `PaymentActivity.java`
+3. Add logic to get `order_id` from your Mobile Backend (server-side code)
 
     > TIP: An alternative to having a Mobile Backend for running the sample App is:
     > 1. Generate a unique order_id using curl
-    > 2. Copy/paste the generated order_id in `PaymentActivity.java`
+    > 2. Copy/paste the generated order_id in `App.js`
     > 3. Once a successful test transaction is completed for a particular order, repeat the above steps
 
     ```
